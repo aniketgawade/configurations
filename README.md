@@ -9,5 +9,5 @@ First of all I would reccomend doing this from console as you might loose connec
 - brctl addif mybridge eth0
 - ifconfig mybridge up
 - ifconfig mybridge 10.84.7.32 netmask 255.255.255.0 up
-- route add default gw <gateway-ip>
+- route add default gw (gateway-ip)
 
