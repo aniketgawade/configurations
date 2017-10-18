@@ -1,6 +1,7 @@
 # Cheatsheet for some configurations
 
 configuring a bridge:
+
 First of all I would reccomend doing this from console as you might loose connectivity in between
 - apt-get install bridge-utils
 - ip addr flush dev eth0
